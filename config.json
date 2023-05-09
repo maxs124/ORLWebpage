@@ -1,0 +1,43 @@
+{
+  "baseURL": "https://orl.maxshmelev.com/",
+  "buildDrafts": false,
+  "buildExpired": false,
+  "buildFuture": false,
+  "enableEmoji": true,
+  "enableInlineShortcodes": true,
+  "enableRobotsTXT": true,
+  "languageCode": "en-us",
+  "pygmentsUseClasses": true,
+  "theme": "PaperMod",
+  "title": "Max's ORL Blog",
+  "languages": {
+    "en": {
+      "languageName": "English",
+      "weight": 1,
+      "menu": {
+        "main": [
+          {
+            "name": "Activity Log",
+            "url": "log/",
+            "weight": 5
+          },
+          {
+            "name": "About",
+            "url": "about/",
+            "weight": 10
+          },
+          {
+            "name": "Photo Gallery",
+            "url": "gallery/",
+            "weight": 10
+          }
+        ]
+      },
+      "taxonomies": {
+        "category": "categories",
+        "series": "series",
+        "tag": "tags"
+      }
+    }
+  }
+}
