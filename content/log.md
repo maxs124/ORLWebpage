@@ -24,7 +24,7 @@ date: 2023-04-02T08:30:38-07:00
 | 03/16/23	| 	Lassen National Forest, CA|	Backcountry Ski  |	Went with Will and Maxim for the best day skiing of the season on some beautiful corn by alpine lakes	|
 | 	03/17-18/23|Johnsville, CA/ Eureka Peak 	|	 Mountaineering |		We learned how to fall arrest and climbed Eureka peak with ice axes and crampons followed by sliding down the whole mountain afterwards|
 | 03/22-30/23	| 	Joshua Tree, CA|	Backpacking and Climbing  |		Went to J-Tree to lead a bunch of highschoolers in climbing and backpcking through the desert|
-| 04/17/23	| FRC - Oakland Camp	|	Kayaking  |	first klayaking run with ABOR	|
+| 04/17/23	| FRC - Oakland Camp	|	Kayaking  |	First kayaking run with ABOR	|
 | 04/19/23	| Graeagle - Sloat	|	 Rafting |	First 6th Grade Rafting	|
 | 04/21-23/23	| Graeagle - Sloat, Wei - Twain	|	Rafting  |	Rafting weekend class with one day with RAD participants	|
 | 04/25-26/23	| Graeagle - Sloat	|	Rafting  |	Last two days of 6th Grade Rafting	|
