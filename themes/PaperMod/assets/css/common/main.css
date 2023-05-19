@@ -6,11 +6,6 @@
     padding: var(--gap);
 }
 
-body {
-  background-image: url('/images/BG.jpg');
-}
-
-
 .page-header h1 {
     font-size: 40px;
 }
