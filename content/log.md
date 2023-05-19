@@ -30,4 +30,5 @@ date: 2023-04-02T08:30:38-07:00
 | 04/25-26/23	| Graeagle - Sloat	|	Rafting  |	Last two days of 6th Grade Rafting	|
 | 04/28-30/23	| Gansner Park - Oakland Camp	|	Kayaking  |	Kayaking weekend course	|
 | 05/03/23	| FRC - Oakland Camp	|	Kayaking  |	Kayaking with Simon and Nathan	|
-| 	| 	|	  |		|
+| 05/11-15/23 | Dos Rios -Alder Point via The Eel River | Kayaking | River Trip on the Eel with ABOR for 4 days covering ~50 mi |
+| 05/17/23 | Meadow Valley - Gansner Park via Spanish Creek | Kayaking | Kayaking with Simon, Kili, and Will on class 2+ from Meadow Valley  with a portage around lovers leap |
