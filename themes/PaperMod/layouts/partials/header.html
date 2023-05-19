@@ -39,7 +39,7 @@
 </script>
 {{- end }}
 
-<header class="header">
+<header class="header" style="background-image: url('{{ .Site.Params.background_image }}')">
     <nav class="nav">
         <div class="logo">
             {{- $label_text := (site.Params.label.text | default site.Title) }}
