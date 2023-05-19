@@ -3,8 +3,6 @@
   "buildDrafts": false,
   "buildExpired": false,
   "buildFuture": false,
-  "hideFooter": true,
-  "background_image": "/images/BG.jpg",
   "enableEmoji": true,
   "enableInlineShortcodes": true,
   "enableRobotsTXT": true,
@@ -12,6 +10,10 @@
   "pygmentsUseClasses": true,
   "theme": "PaperMod",
   "title": "Max's ORL Blog",
+  "params": {
+      "hideFooter": true,
+      "background_image": "/images/BG.jpg"
+  },
   "languages": {
     "en": {
       "languageName": "English",
