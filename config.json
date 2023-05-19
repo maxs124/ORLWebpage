@@ -11,8 +11,7 @@
   "theme": "PaperMod",
   "title": "Max's ORL Blog",
   "params": {
-      "hideFooter": true,
-      "background_image": "/content/img/images/BG.jpg"
+      "hideFooter": true
   },
   "languages": {
     "en": {
