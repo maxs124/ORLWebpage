@@ -28,7 +28,7 @@ By the end of this lesson, participants will understand the basics of setting up
 3. ### Types of Anchors:
    
    - Discuss different types of whitewater rescue anchors commonly used, such as natural anchors (e.g., trees, rocks), and mechanical anchors (e.g., pulley systems, z-drag).
-   ![z-drag](z-drag.png)
+   ![z-drag](/images/z-drag.png)
    - Explain the advantages and limitations of each type, emphasizing the importance of assessing the suitability and strength of anchors in different situations.
    
 4. ### Setting Up Anchors:
