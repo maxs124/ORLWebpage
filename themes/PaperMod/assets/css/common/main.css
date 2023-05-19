@@ -7,7 +7,7 @@
 }
 
 header.header {
-  background-image: url('{{ .Site.Params.background_image }}');
+  background-image: url('BG.jpg');
 }
 
 
