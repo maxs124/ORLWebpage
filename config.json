@@ -8,7 +8,7 @@
   "enableRobotsTXT": true,
   "languageCode": "en-us",
   "pygmentsUseClasses": true,
-  "theme": "PaperMod",
+  "theme": "ananke",
   "title": "Max's ORL Blog",
   "languages": {
     "en": {
