@@ -6,7 +6,7 @@
     padding: var(--gap);
 }
 
-header.home-header {
+header.header {
   background-image: url('{{ .Site.Params.background_image }}');
 }
 
