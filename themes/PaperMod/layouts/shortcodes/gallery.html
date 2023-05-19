@@ -1,0 +1,6 @@
+{{ $images := .Get "images" }}
+<div class="gallery">
+  {{ range $index, $image := $images }}
+    <img src="{{ $image }}" alt="Image {{ $index }}">
+  {{ end }}
+</div>
