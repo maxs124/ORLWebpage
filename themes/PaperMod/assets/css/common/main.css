@@ -6,6 +6,11 @@
     padding: var(--gap);
 }
 
+header.home-header {
+  background-image: url('{{ .Site.Params.background_image }}');
+}
+
+
 .page-header h1 {
     font-size: 40px;
 }
