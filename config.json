@@ -3,7 +3,7 @@
   "buildDrafts": false,
   "buildExpired": false,
   "buildFuture": false,
-  "background_image" = "/images/BG.jpg",
+  "background_image": "/images/BG.jpg",
   "enableEmoji": true,
   "enableInlineShortcodes": true,
   "enableRobotsTXT": true,
