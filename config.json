@@ -12,7 +12,7 @@
   "title": "Max's ORL Blog",
   "params": {
       "hideFooter": true,
-      "background_image": "/BG.jpg"
+      "background_image": "/resources/BG.jpg"
   },
   "languages": {
     "en": {
