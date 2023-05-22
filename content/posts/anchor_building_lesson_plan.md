@@ -1,50 +1,71 @@
 ---
 title: "Swiftwater Rescue Anchors and Systems"
-date: 2023-05-10T12:00:07-07:00
+date: 2023-05-22T12:00:07-07:00
 ---
 
-## Objective: 
+Leader: Max Shmelev
 
-By the end of this lesson, participants will understand the basics of setting up and using whitewater rescue anchors for swiftwater rescue situations.
+Group:
+- Target audience: ABOR classmates who may need a refresher on white water rescue anchors and anchor building in general
+- Size of the group: 8-10 
 
-## Materials Needed:
+Group's Mission:
+To develop participants' understanding and skills in setting up and using whitewater rescue anchors for swiftwater rescue scenarios.
 
-- Whiteboard with markers
-- Rope or webbing (for demonstration purposes)
+Activity Title:
+Whitewater Rescue Anchors Lesson
+
+Rationale:
+This activity aims to provide participants with the knowledge and practical skills necessary for effectively utilizing rescue anchors during whitewater rescue operations. By understanding and practicing proper anchor setup and rigging techniques, participants will be better equipped to respond to emergency situations and ensure the safety of themselves and others.
+
+Brief Description of Activity:
+This lesson will involve a combination of instruction, demonstrations, and hands-on practice in setting up and using whitewater rescue anchors. Participants will learn about different types of anchors, their applications, and safety considerations. They will also have the opportunity to practice anchor setups and rigging under the guidance of the leader.
+
+Time Requirements:
+- Introduction and explanation: 5 minutes
+- Instruction and demonstration: 5 minutes
+- Hands-on practice: 8-10 minutes
+- Wrap-up and discussion: 2-3 minutes
+
+Resources:
+- Rope or webbing for demonstration purposes
 - Carabiners and other relevant rescue equipment (optional)
 
-## Lesson Plan:
+Preparations:
+- Prepare the necessary visual aids or presentation materials.
+- Gather the required equipment, including ropes, carabiners, and other rescue gear.
+- Set up a suitable outdoor space or training area for the hands-on practice.
 
-1. ### Introduction:
-   
-   - Greet the participants and introduce yourself.
-   - Explain the objective of the lesson: to learn about whitewater rescue anchors for swiftwater rescue scenarios.
-   
-2. ### Background Information:
-   
-   - Provide a brief overview of the importance of anchors in whitewater rescue situations.
-   - Explain that anchors are essential for creating a secure point of attachment when performing rescues, establishing a stable platform for rescuers to work from, and preventing downstream movement during rescue operations.
-   
-3. ### Types of Anchors:
-   
-   - Discuss different types of whitewater rescue anchors commonly used, such as natural anchors (e.g., trees, rocks), and mechanical anchors (e.g., pulley systems, z-drag).
-   ![z-drag](/images/z-drag.png)
-   - Explain the advantages and limitations of each type, emphasizing the importance of assessing the suitability and strength of anchors in different situations.
-   
-4. ### Setting Up Anchors:
-   
-   - Explain the step-by-step process of anchor placement, including burying the anchor or selecting solid attachment points.
-   - Discuss the use of appropriate anchor materials, such as webbing or rope, and the importance of securing the anchor with appropriate knots.
+Safety Considerations:
+- Emphasize the importance of proper technique and safety precautions during the hands-on practice.
 
-6. ### Safety Considerations:
-   
-   - Discuss important safety considerations, such as maintaining a safe distance from potential hazards in the river, and conducting regular equipment inspections.
-   
-7. ### Questions and Discussion:
-   
-   - Encourage participants to ask questions and engage in a discussion about whitewater rescue anchors.
+Learning Objectives:
+Upon successful completion of the activity, participants will be able to:
+1) Identify different types of whitewater rescue anchors and understand their applications.
+2) Demonstrate proper techniques for setting up and rigging whitewater rescue anchors.
+3) Explain key safety considerations and best practices when using whitewater rescue anchors.
 
-8. ### Conclusion:
+Step by Step Procedures:
+1) Introduction:
+   - Gather participants and provide a brief overview of the lesson's objectives and activities.
+   - Explain the importance of rescue anchors in whitewater scenarios and the relevance to participant safety.
+
+2) Instruction and Demonstration:
+   - Explain the step-by-step process of anchor placement, selection, and rigging.
+   - Conduct a live demonstration of setting up a rescue anchor, explaining each step along the way.
    
-   - Summarize the main points covered in the lesson.
-   - Emphasize the importance of practice, training, and working with experienced professionals to develop skills in whitewater rescue as a whole.
+3) Hands-on Practice:
+   - Divide participants into smaller groups or pairs.
+   - Provide ropes and equipment for each group and guide them through the process of setting up a rescue anchor.
+   - Offer individual help and corrections as needed.
+
+4) Wrap-up and Discussion:
+   - Regather the whole group and facilitate a discussion on the key learnings from the hands-on practice.
+   - Address any questions raised by participants.
+   - Summarize the main points covered in the lesson and emphasize the importance of ongoing practice and further training.
+
+Helpful Hints and Variations:
+- Offer variations of anchor setups or scenarios to challenge participants.
+
+Processing the Experience:
+- Engage participants in a debriefing discussion to reflect on their experience and identify lessons learned.
